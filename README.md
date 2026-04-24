@@ -6,6 +6,8 @@
 ## 📖 Présentation du Projet
 Ce projet s'inscrit dans le cadre d'une étude d'ingénierie Web portant sur le compromis entre esthétique visuelle et performance technique. 
 
+**Problématique :** « Comment intégrer des effets de rendu visuels complexes sans dégrader la fluidité et l'autonomie des terminaux hétérogènes ? »
+
 Le **Glassmorphism** (effet de flou d'arrière-plan) est devenu un standard du design moderne. Cependant, son implémentation via la propriété CSS `backdrop-filter` génère une charge de calcul massive pour le GPU, impactant la fluidité (FPS) et l'autonomie des terminaux.
 
 **Objectif :** Déterminer et implémenter la stratégie la plus efficace pour garantir un rendu fluide (60 FPS) sur des terminaux hétérogènes (allant du PC haute performance au smartphone d'entrée de gamme).
@@ -58,6 +60,7 @@ Cette étude s'appuie sur des ressources académiques et techniques de référen
 ---
 
 ## 👤 Contact
-**Pierre BOIVIN** *Étudiant à CESI École d'Ingénieurs* 
+**Pierre BOIVIN** *Étudiant à CESI École d'Ingénieurs*
+
 📧 [boivin.pierre60@gmail.com](mailto:boivin.pierre60@gmail.com)  
 📅 Avril 2026
